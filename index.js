@@ -1,1 +1,1 @@
-module.exports = require('./dist/bread-store');
+module.exports = require('./src/bread-store');
